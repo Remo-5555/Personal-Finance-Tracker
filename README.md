@@ -1,6 +1,6 @@
 # personal-finance-tracker
-Project Overview
-Objective: Build a full-stack Personal Finance Tracker that allows users to:
+## Project Overview
+### Objective: Build a full-stack Personal Finance Tracker that allows users to:
 
 Track Expenses and Income: Add, edit, and delete financial transactions.
 Categorize Transactions: Assign categories for better organization.
